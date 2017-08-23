@@ -6,6 +6,8 @@ public class EgitTest {
 		System.out.println("Hello Egit.");
 		System.out.println("Update.");
 		System.out.println("Update.");
+		
+		System.out.println("master, 制造合并冲突。");
 	}
 	
 }
