@@ -8,6 +8,7 @@ public class EgitTest {
 		System.out.println("Update.");
 		
 		System.out.println("master, 制造合并冲突。");
+		System.out.println("Update From Branch fix323.");
 	}
 	
 }
