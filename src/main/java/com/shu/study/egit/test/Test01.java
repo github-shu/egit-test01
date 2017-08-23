@@ -4,6 +4,7 @@ public class Test01 {
 	
 	public static void main(String[] args) {
 		System.out.println("shu, 制造冲突。");
+		System.out.println("From github-hsr.");
 	}
 
 }
